@@ -32,3 +32,9 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
+
+<br/>
+
+### My GitHub Stats
+
+<img align="left" alt="Vincent's github stats" src="https://github-readme-stats.vercel.app/api?username=VincentDondain&count_private=true&show_icons=true&include_all_commits=true&hide=stars&hide_title=true" />
