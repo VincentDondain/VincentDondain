@@ -4,9 +4,9 @@
 
 ## Developer @Microsoft
 
-- 🔭 I’m currently working on GitHub Codespaces
+- 🔭 I’m currently working on [GitHub Codespaces](https://github.com/features/codespaces)
 - 🌱 I’m currently learning a lot of Web technologies
-- 💬 Ask me about Xamarin.iOS, Objective-C or Swift (:
+- 💬 Ask me about Codespaces Xamarin.iOS, Objective-C or Swift (:
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I am colorblind, use me to make your UI colors accessible!
 
