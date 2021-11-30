@@ -2,11 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/VincentDondain?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVincentDondain&screen_name=VincentDondain)
 
-## Developer @Microsoft
+## Developer @GitHub
 
 - 🔭 I’m currently working on [GitHub Codespaces](https://github.com/features/codespaces)
-- 🌱 I’m currently learning a lot of Web technologies
-- 💬 Ask me about Codespaces, Xamarin.iOS, Objective-C or Swift (:
+- 🌱 I’m currently learning anything Kubernetes clusters, pipelines and configuration as code
+- 💬 Ask me about Codespaces, Kubernetes, Xamarin.iOS, Objective-C or Swift (:
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I am colorblind, use me to make your UI colors accessible!
 
