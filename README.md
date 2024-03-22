@@ -4,11 +4,10 @@
 
 ## Developer @GitHub
 
-- 🔭 I’m currently working on [GitHub Codespaces](https://github.com/features/codespaces)
-- 🌱 I’m currently learning anything Kubernetes clusters, pipelines and configuration as code
-- 💬 Ask me about Codespaces, Kubernetes, Xamarin.iOS, Objective-C or Swift (:
+- 🔭 Leading the charge on enhancing [GitHub Codespaces](https://github.com/features/codespaces) as a people manager
+- 🌱 Expanding my mastery in Typescript, Swift, Docker, Kubernetes, continuous integration pipelines, and infrastructure as code
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: I am colorblind, use me to make your UI colors accessible!
+- ⚡ Fun fact: Navigating the world in unique hues as a colorblind coder, I’m your ally in crafting accessible UIs!
 
 ### Languages
 
