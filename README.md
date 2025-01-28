@@ -4,8 +4,8 @@
 
 ## Developer @GitHub
 
-- 🔭 Leading the charge on enhancing [GitHub Codespaces](https://github.com/features/codespaces) as a people manager
-- 🌱 Expanding my mastery in Typescript, Swift, Docker, Kubernetes, continuous integration pipelines, and infrastructure as code
+- 🔭 Leading the charge on enhancing [Copilot Workspace]([https://github.com/features/codespaces](https://github.blog/news-insights/product-news/github-copilot-workspace/)) as a people manager
+- 🌱 Deepening my expertise in AI, LLMs, context gathering, fine-tuning, prompt engineering, and beyond.
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: Navigating the world in unique hues as a colorblind coder, I’m your ally in crafting accessible UIs!
 
