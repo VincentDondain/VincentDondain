@@ -4,7 +4,7 @@
 
 ## Developer @GitHub
 
-- 🔭 People manager focusing on Copilot Experiences.
+- 🔭 Engineering manager focusing on Copilot Experiences.
 - 🌱 Deepening my expertise in AI, LLMs, context gathering, fine-tuning, prompt engineering, and beyond.
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: Navigating the world in unique hues as a colorblind coder, I’m your ally in crafting accessible UIs!
