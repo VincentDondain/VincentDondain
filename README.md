@@ -4,7 +4,7 @@
 
 ## Developer @GitHub
 
-- 🔭 Leading the charge on enhancing [Copilot Workspace]([https://github.com/features/codespaces](https://github.blog/news-insights/product-news/github-copilot-workspace/)) as a people manager
+- 🔭 People manager focusing on Copilot Experiences.
 - 🌱 Deepening my expertise in AI, LLMs, context gathering, fine-tuning, prompt engineering, and beyond.
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: Navigating the world in unique hues as a colorblind coder, I’m your ally in crafting accessible UIs!
